@@ -3,5 +3,8 @@
 
 #### To setup...
 '''
-pip install turtle
+Since turtle is a library that comes with python you don't need to do any setup!
+Just include 
+    import turtle
+at the top of your code!
 '''
